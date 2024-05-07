@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 # Modern 3D Portfolio using React, Three.js and Typescript
@@ -267,3 +268,6 @@ You can also give this repository a star to show more people and they can use th
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+# ThreeJS
+>>>>>>> c73a60d762f8de54e31d8450ebbdd0a53d7f168b
